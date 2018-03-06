@@ -2,4 +2,4 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 React.createElement();
-React.render();
+React.render(what, where); //nice
